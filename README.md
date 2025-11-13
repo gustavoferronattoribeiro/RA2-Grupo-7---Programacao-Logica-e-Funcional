@@ -1,10 +1,10 @@
 # Pontifícia Universidade Católica do Paraná
 # Programação Lógica e Funcional - Frank Coelho de Alcantara
 # Participantes:
-## Gustavo Berg Ribeiro - 
-## Gustavo Ferronatto Ribeiro -
-## João Guilherme Machado Palma - 
-## Renan Belem Biavati - 
+## Gustavo Berg Ribeiro - https://github.com/GustavoBergr
+## Gustavo Ferronatto Ribeiro - https://github.com/gustavoferronattoribeiro
+## João Guilherme Machado Palma - https://github.com/JoaoGuilhermeMP
+## Renan Belem Biavati - https://github.com/RenanBelem
 
 ## Link OnlineGDB: https://www.onlinegdb.com/edit/pb4qP-mb90#
 
