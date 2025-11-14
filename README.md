@@ -1,4 +1,4 @@
-<img width="492" height="120" alt="image" src="https://github.com/user-attachments/assets/acacec48-e6d8-4a6f-b9fc-89d5cdd57d7b" /># Pontifícia Universidade Católica do Paraná
+# Pontifícia Universidade Católica do Paraná
 # Programação Lógica e Funcional - Frank Coelho de Alcantara
 # Participantes:
 ## Gustavo Berg Ribeiro - https://github.com/GustavoBergr
